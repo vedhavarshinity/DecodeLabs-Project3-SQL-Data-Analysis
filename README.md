@@ -67,13 +67,13 @@ The analysis helps identify:
 
 DecodeLabs-Project3-SQL-Data-Analysis/
 │
-├── Dataset/
+├── 📂 Dataset/
 │   └── Dataset for Data Analytics.csv
 │
-├── sql/
+├── 📂 sql/
 │   └── project3_queries.sql
 │
-├── screenshots/
+├── 📂 screenshot/
 │   ├── 01_select_data.png
 │   ├── 02_where_filter.png
 │   ├── 03_order_by.png
