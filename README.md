@@ -70,7 +70,10 @@ DecodeLabs-Project3-SQL-Data-Analysis/
 ├── Dataset/
 │   └── Dataset for Data Analytics.csv
 │
-├── screenshot/
+├── sql/
+│   └── project3_queries.sql
+│
+├── screenshots/
 │   ├── 01_select_data.png
 │   ├── 02_where_filter.png
 │   ├── 03_order_by.png
@@ -79,9 +82,6 @@ DecodeLabs-Project3-SQL-Data-Analysis/
 │   ├── 06_average_order_value.png
 │   ├── 07_group_by_status.png
 │   └── 08_group_by_product.png
-│
-├── sql/
-│   └── project3_queries.sql
 │
 └── README.md
 
@@ -101,5 +101,6 @@ This project demonstrates the practical use of **SQL for data analysis** by tran
 ## Author
 
 **Vedhavarshini Yuvaraj**
+
 M.Sc. Data Science | VIT
-#
+
