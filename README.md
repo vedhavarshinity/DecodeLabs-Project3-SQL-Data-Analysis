@@ -64,7 +64,6 @@ The analysis helps identify:
 * Effectiveness of coupons and referral sources
 
 ## 📁 Project Structure
-## 📁 Project Structure
 
 ```text
 DecodeLabs-Project3-SQL-Data-Analysis/
