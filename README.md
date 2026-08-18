@@ -64,16 +64,15 @@ The analysis helps identify:
 * Effectiveness of coupons and referral sources
 
 ## 📁 Project Structure
+## 📁 Project Structure
 
+```text
 DecodeLabs-Project3-SQL-Data-Analysis/
 │
-├── 📂 Dataset/
+├── Dataset/
 │   └── Dataset for Data Analytics.csv
 │
-├── 📂 sql/
-│   └── project3_queries.sql
-│
-├── 📂 screenshot/
+├── screenshot/
 │   ├── 01_select_data.png
 │   ├── 02_where_filter.png
 │   ├── 03_order_by.png
@@ -83,8 +82,11 @@ DecodeLabs-Project3-SQL-Data-Analysis/
 │   ├── 07_group_by_status.png
 │   └── 08_group_by_product.png
 │
+├── sql/
+│   └── project3_queries.sql
+│
 └── README.md
-
+```
 ## How to Run the Project
 
 1. Install and start MySQL.
